@@ -48,7 +48,7 @@ http://127.0.0.1:5000/post
 
 ## Тестирование из сети интернет
 ### Адрес для Postman
-https://lucky-ruby-cartoon.glitch.me/post
+https://brainy-broken-lawyer.glitch.me/post
 
 ## Тестирование навыка в Алисе
-https://dialogs.yandex.ru/developer/skills/8360d7f7-3f63-49a2-8b2e-89474a4d9087/draft/test
+https://dialogs.yandex.ru/developer/skills/84b1ef6a-7574-423b-87f4-8811cb81c869/draft/test
